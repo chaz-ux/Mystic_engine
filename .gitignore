@@ -1,0 +1,26 @@
+# =========================================================================
+# THE WARDS OF PROTECTION (Git Ignore)
+# =========================================================================
+
+# 1. Pocket Dimensions (Virtual Environments)
+venv/
+.venv/
+env/
+.env
+
+# 2. Ethereal Echoes (Compiled Python & Cache)
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# 3. Illusions (OS & Editor Junk)
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# 4. Temporal Anomalies (Logs & Outputs)
+*.log
+*.mp4
+*.avi
